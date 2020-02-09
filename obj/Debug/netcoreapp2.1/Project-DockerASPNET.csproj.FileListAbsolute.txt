@@ -1,0 +1,102 @@
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.deps.json
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.runtimeconfig.json
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.runtimeconfig.dev.json
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.dll
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.pdb
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.Views.dll
+C:\Code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.Views.pdb
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.csprojAssemblyReference.cache
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorAssemblyInfo.cache
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorAssemblyInfo.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.AssemblyInfoInputs.cache
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.AssemblyInfo.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.TagHelpers.input.cache
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.TagHelpers.output.cache
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorCoreGenerate.cache
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorTargetAssemblyInfo.cache
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorTargetAssemblyInfo.cs
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.Views.pdb
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.dll
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.pdb
+C:\Code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.csproj.CopyComplete
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\appsettings.json
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.deps.json
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.runtimeconfig.json
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.runtimeconfig.dev.json
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.dll
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.pdb
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.Views.dll
+C:\devops\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.Views.pdb
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.csprojAssemblyReference.cache
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorAssemblyInfo.cache
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorAssemblyInfo.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.AssemblyInfoInputs.cache
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.AssemblyInfo.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.TagHelpers.input.cache
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.TagHelpers.output.cache
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorCoreGenerate.cache
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorTargetAssemblyInfo.cache
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorTargetAssemblyInfo.cs
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.Views.pdb
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.dll
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.pdb
+C:\devops\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.csproj.CopyComplete
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.deps.json
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.runtimeconfig.json
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.runtimeconfig.dev.json
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.dll
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.pdb
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.Views.dll
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\bin\Debug\netcoreapp2.1\Project-DockerASPNET.Views.pdb
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.csprojAssemblyReference.cache
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorAssemblyInfo.cache
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorAssemblyInfo.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.AssemblyInfoInputs.cache
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.AssemblyInfo.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.TagHelpers.input.cache
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.TagHelpers.output.cache
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorCoreGenerate.cache
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorTargetAssemblyInfo.cache
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.RazorTargetAssemblyInfo.cs
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.Views.pdb
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.dll
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.pdb
+C:\Users\amol.bhawari\Desktop\sample code\Project-DockerASPNET\obj\Debug\netcoreapp2.1\Project-DockerASPNET.csproj.CopyComplete
